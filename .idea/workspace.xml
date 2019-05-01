@@ -1,177 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/logincss/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/css/util.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/logincss/util.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/css/material-design-iconic-font.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/css/material-design-iconic-font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/css/material-design-iconic-font.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/css/material-design-iconic-font.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/iconic/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-BlackItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-ExtraBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-ExtraLight.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-Thin.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginfonts/poppins/Poppins-ThinItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/images/bg-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginimages/bg-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/images/icons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginimages/icons/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/images/icons/shopping-bag.png" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginimages/icons/shopping-bag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginjs/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/animate/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/animate/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/animsition/css/animsition.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/animsition/css/animsition.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/animsition/css/animsition.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/animsition/css/animsition.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/animsition/js/animsition.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/animsition/js/animsition.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/animsition/js/animsition.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/animsition/js/animsition.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/js/popper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/bootstrap/js/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/bootstrap/js/tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/countdowntime/countdowntime.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/countdowntime/countdowntime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/css-hamburgers/hamburgers.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/css-hamburgers/hamburgers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/daterangepicker/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/daterangepicker/daterangepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/daterangepicker/daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/daterangepicker/daterangepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/daterangepicker/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/daterangepicker/moment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/daterangepicker/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/daterangepicker/moment.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/select2/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/select2/select2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/select2/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/select2/select2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/select2/select2.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/vendor/select2/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/loginvendor/select2/select2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addcss/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/images/shopping-bag.png" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regimages/shopping-bag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addjs/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/datepicker/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/datepicker/daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/datepicker/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/datepicker/moment.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/HELP-US-OUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/HELP-US-OUT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/css/material-design-iconic-font.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/css/material-design-iconic-font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/css/material-design-iconic-font.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/css/material-design-iconic-font.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/select2/select2.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/vendor/select2/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/select2/select2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addProduct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regcss/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/images/shopping-bag.png" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addimages/shopping-bag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/js/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/seller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/seller.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/updateProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/updateProduct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/datepicker/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/datepicker/daterangepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/datepicker/daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/datepicker/daterangepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/datepicker/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/moment.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/HELP-US-OUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/HELP-US-OUT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationForm/regvendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/css/material-design-iconic-font.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/css/material-design-iconic-font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/css/material-design-iconic-font.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/css/material-design-iconic-font.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/select2/select2.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/vendor/select2/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addvendor/select2/select2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery-ui.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-ui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.nicescroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.nicescroll.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,59 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Seller/Login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="91" column="38" lean-forward="true" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Seller/regForm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regForm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="59" column="77" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -275,16 +53,16 @@
         <option value="$PROJECT_DIR$/Seller/addProduct.html" />
         <option value="$PROJECT_DIR$/Seller/seller.html" />
         <option value="$PROJECT_DIR$/Seller/updateProduct.html" />
-        <option value="$PROJECT_DIR$/Seller/regForm.html" />
         <option value="$PROJECT_DIR$/RegistrationForm/regForm.html" />
         <option value="$PROJECT_DIR$/Seller/Login.html" />
-        <option value="$PROJECT_DIR$/regForm.html" />
         <option value="$PROJECT_DIR$/Login.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/regForm.html" />
+        <option value="$PROJECT_DIR$/Seller/regForm.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -304,11 +82,6 @@
             <path>
               <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
               <item name="divisima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="divisima" type="462c0819:PsiDirectoryNode" />
-              <item name="Seller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,12 +137,12 @@
       <workItem from="1556063401036" duration="3075000" />
       <workItem from="1556155564067" duration="3451000" />
       <workItem from="1556165460432" duration="24924000" />
-      <workItem from="1556642122736" duration="2264000" />
+      <workItem from="1556642122736" duration="3775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47287000" />
+    <option name="totallyTimeSpent" value="48798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,7 +154,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1323752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -686,13 +459,6 @@
     <entry file="file://$PROJECT_DIR$/Seller/regcss/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/seller.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/Admin/login.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -703,44 +469,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regForm.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
+        <state relative-caret-position="432">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/seller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/regForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Seller/Login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="91" column="38" lean-forward="true" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
+          <caret line="91" column="37" lean-forward="true" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/regForm.html">
+    <entry file="file://$PROJECT_DIR$/regForm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="59" column="77" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
+        <state relative-caret-position="391">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
         </state>
       </provider>
     </entry>
