@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/divisima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/divisima.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regcss/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regjs/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/datepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/css/material-design-iconic-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/css/material-design-iconic-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm/regvendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/Login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addProduct.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addcss/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addjs/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/datepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/datepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/datepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/css/material-design-iconic-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/css/material-design-iconic-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/addvendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regcss/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regjs/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/datepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/datepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/datepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/css/material-design-iconic-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/css/material-design-iconic-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/regvendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/seller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/seller.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seller/updateProduct.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regForm.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,8 +15,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Seller/addproduct.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+            <state relative-caret-position="493">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="57" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -185,7 +109,6 @@
         <option value="$PROJECT_DIR$/Seller/Login.html" />
         <option value="$PROJECT_DIR$/regForm.html" />
         <option value="$PROJECT_DIR$/Seller/regform.html" />
-        <option value="$PROJECT_DIR$/Seller/addproduct.html" />
         <option value="$PROJECT_DIR$/regform.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Login.html" />
@@ -193,10 +116,11 @@
         <option value="$PROJECT_DIR$/Seller/updateProduct.html" />
         <option value="$PROJECT_DIR$/Seller/seller.html" />
         <option value="$PROJECT_DIR$/Seller/updateproduct.html" />
+        <option value="$PROJECT_DIR$/Seller/addproduct.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -286,12 +210,12 @@
       <workItem from="1556784135078" duration="2722000" />
       <workItem from="1556864445556" duration="24137000" />
       <workItem from="1556944865782" duration="2616000" />
-      <workItem from="1556951462500" duration="5320000" />
+      <workItem from="1556951462500" duration="5959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84382000" />
+    <option name="totallyTimeSpent" value="85021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,7 +227,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
@@ -648,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Seller/regform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -669,10 +586,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/updateproduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Seller/addproduct.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+        <state relative-caret-position="493">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
         </state>
       </provider>
     </entry>
